@@ -1,4 +1,4 @@
-![Uploading RedditPopGIF.gif…]()
+
 
 # Reddit Bot Analysis
 
