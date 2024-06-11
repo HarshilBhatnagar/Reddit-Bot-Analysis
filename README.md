@@ -1,3 +1,4 @@
+![RedditProfileGIF](https://github.com/HarshilBhatnagar/Reddit-Bot-Analysis/assets/125506674/9e226c90-8717-4b50-956f-437eaf844707)
 # Reddit Bot Analysis
 
 This project analyzes bot usage for Indian political issues on Reddit.
