@@ -27,4 +27,3 @@ query = 'Modi OR Congress OR BJP OR Indian Politics'
 
 - `runtime.txt`: Specifies the Python runtime version for Heroku.
 
-- `README.md`: Contains information about the project and the files within.
